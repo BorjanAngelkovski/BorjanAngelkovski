@@ -1,3 +1,4 @@
+vezba1
 def binary_search(arr, target):
     """
     Perform a binary search to find the index of the target value in a sorted array.
